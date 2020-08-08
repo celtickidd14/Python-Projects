@@ -190,7 +190,3 @@ def find_characters_v3(text, stoplist, top):
 
 # v3  = find_characters_v3(text, load_stop_words(), 15)
 # print(v3)
-
-def jupyter():
-  url = 'https://drive.google.com/open?id=1x5g9aOgWuHN-xdJs91GPorXCWiYTfBGK'
-  return '1x5g9aOgWuHN-xdJs91GPorXCWiYTfBGK'
